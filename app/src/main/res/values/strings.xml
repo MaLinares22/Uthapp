@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Uthapp</string>
+    <string name="CampoNombre">Ingrese su nombre:</string>
+    <string name="CampoApellido">Ingrese su apellido:</string>
+    <string name="CampoEdad">Ingrese su edad:</string>
+    <string name="CampoCorreo">Ingrese su correo:</string>
+    <string name="BotonAgregar">Agregar Cliente</string>
 </resources>
