@@ -1,4 +1,4 @@
-package com.uth.uthapp;
+package com.uth.apputh;
 
 import org.junit.Test;
 

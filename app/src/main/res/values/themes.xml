@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Uthapp" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Apputh" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Uthapp" parent="Base.Theme.Uthapp" />
+    <style name="Theme.Apputh" parent="Base.Theme.Apputh" />
 </resources>
